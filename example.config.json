@@ -1,0 +1,18 @@
+{
+  "design-pro": {
+    "flags": {
+      "trim-split": {
+        "audience": {
+          "distribution": {
+            "completion_date": "2018-06-30T06:05:25.963Z",
+            "frequency": "weekly"
+          },
+          "browsers": {
+            "ie": ">= 11",
+            "chrome": ">= 66"
+          }
+        }
+      }
+    }
+  }
+}
